@@ -1,0 +1,3 @@
+headers = windows.h tlhelp32.h
+package = win32.tlhelp32
+compilerOpts = -DUNICODE -DWIN32_LEAN_AND_MEAN
